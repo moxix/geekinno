@@ -1,0 +1,4 @@
+baseURL = 'https://geekinno.com/'
+languageCode = 'en-us'
+title = 'geekinno'
+theme = 'pehtheme-hugo'
